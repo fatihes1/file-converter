@@ -20,14 +20,14 @@ TransMorpher is a powerful web application built with Next.js, Tailwind CSS, Sha
 
 
 ```bash
-git clone https://github.com/your-username/TransMorpher.git
+git clone https://github.com/fatihes1/file-converter
 ```
 
 2.  Navigate to the project directory:
 
 
 ```bash
-cd TransMorpher
+cd file-converter
 ```
 
 3.  Install dependencies:
