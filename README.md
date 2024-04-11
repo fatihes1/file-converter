@@ -18,27 +18,31 @@ TransMorpher is a powerful web application built with Next.js, Tailwind CSS, Sha
 
 1.  Clone the repository:
 
-bash
 
-`git clone https://github.com/your-username/TransMorpher.git`
+```bash
+git clone https://github.com/your-username/TransMorpher.git
+```
 
 2.  Navigate to the project directory:
 
-bash
 
-`cd TransMorpher`
+```bash
+cd TransMorpher
+```
 
 3.  Install dependencies:
 
-bash
 
-`npm install`
+```bash
+npm install
+```
 
 4.  Start the development server:
 
-bash
 
-`npm run dev`
+```bash
+npm run dev
+```
 
 5.  Open your browser and visit `http://localhost:3000` to view the application.
 
